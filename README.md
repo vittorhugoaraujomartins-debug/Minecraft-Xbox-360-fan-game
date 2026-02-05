@@ -10,11 +10,6 @@ Uma engine voxel experimental desenvolvida em Unity, inspirada no estilo visual 
 - Suporte a texturas DXT1 e DXT5.
 - Occlusion e face culling inteligente.
 
-## 🎮 Como usar
-1. Abra o projeto no Unity 2021.3 ou superior.
-2. Carregue a cena `MainScene.unity`.
-3. Pressione **Play** e explore o mundo gerado.
-
 ## 🧠 Créditos
 - Desenvolvido por **Vittor Hugo Martins**.  
 - Assistência técnica: **GPT-5 (OpenAI)**.
